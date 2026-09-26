@@ -1,0 +1,101 @@
+ MEAN Stack
+    >> M: mongoDB(Database)
+    >> E: ExpressJs(Backend)
+    >> A: Angular(Frontend)
+    >> N: NodeJs(Backend)
+
+
+ Three Pillars
+    >> HTML (Hyper Text MarkUp Language)
+    >> CSS  (Cascading style Sheet)
+    >> JS   (java script) 
+
+ other Stacks
+    >> MEAN, MEAN, java full Stack
+
+ web dev
+    >> Building/developers Team
+    >> Testing Team (manual testers/automated testers)
+    >> Hosting Team (devOps Team)
+    >> Maintenance Team/support Team
+
+ SDLC(software development life cycle)
+    >> Waterfall model
+    >> Agile model
+    >> Spiral model
+    >> Iterative model
+    >> Incremental model
+    >> V shaped model
+    >> RAD(Rapid application development) model 
+
+ URL (Uniform Resource Locator)
+     https://www.instagram.com/
+     https://education.anuragAcademy.edu/fullstack
+
+
+     https: protocol
+     anuragAcademy: sever/domain name
+     education: sub-domain
+     .edu: (Top level domain)
+     fullstack: path/location
+
+
+ protocol:
+     >> Set of rules/instructions
+         http  : Hyper Text Transfer protocol
+         https : Hyper Text Transfer Protocol Secure
+         tcp   : Transmission Control Protocol
+         udp   : User Data Protocol
+         smtp  : Simple Mail Transfer Protocol
+         ftp   : Fill Transfer Protocol
+         ip    : Internet Protocol(ipV4 & ipV6)
+          
+
+            >> clint/wev page--------(uName & uPwd)--------> Instagram server
+            >> SSL (SecureSocket Layer) certification
+
+
+ 
+ Server/Domain Name: 
+    >> Unique Identifier 
+        >> Eg: Google , Amazon        
+
+ 
+ Sub-Domain Name:     
+     >> gMeet
+     >> gMaps
+     >> gDrive
+     >> gmail
+     >> gPhotos
+     >> gFiles
+     >> gChrome
+     >> gCalender
+     >> gPay
+    
+     >> Amazon Shopping
+     >> AWS
+
+
+ TLD (Top Level Domain):
+     Amazon.in (India)
+     Amazon.com (commercial)
+     Amazon.edu (education)
+     Amazon.org (organization)
+     Amazon.uk (united kingdoms)
+
+
+
+ offline Editors
+     >> Notepad
+     >> Notepad++
+     >> subLive
+     >> open Brackets
+     >> Vs code
+
+ online Editors
+     >> codespace
+     >> codesavebox   
+
+
+
+

@@ -1,0 +1,40 @@
+Git >> version Control
+    
+    v1
+    v2
+    v3
+New v4
+    
+
+>> It is distributed (on Cloud)
+>> collaboration
+>> Tracking
+>> Recovery
+
+https://git-scm.com/downloads
+
+GitHub
+BitBucket
+gitLabs
+GitPod
+
+>> For 1st time need yo configure github in your system
+git config --global user.name "anuragtiwari74"
+git config --global user.gmail "anuragtiwari00ggarhi@gmail.com"
+
+git config --global color.ui auto
+
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/anuragtiwari74/gitDemo.git
+
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
